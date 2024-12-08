@@ -2,7 +2,7 @@
 
 In the first Part, I have used Python to implement the "isTaskDescriptionPalindrome" function.
 
-In both Second and third Part, I have implemented the Task Management System using Spring Boot framework and I chose the "Dependency Injection" as a design principale because 
+In both Second and third Part, I have implemented the Task Management System using Spring Boot framework and I chose the "Dependency Injection" and "Inversion of Control" as design principales because 
 in Spring Boot its easier using the Annotations.
 
 I Have organized my project into : entities / services / repositories / controllers (API endpoints) (Part3) 
