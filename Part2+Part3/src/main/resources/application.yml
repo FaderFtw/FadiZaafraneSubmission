@@ -2,7 +2,7 @@ spring:
   application:
     name: taskManager
   datasource:
-    url: jdbc:mysql://db:3306/task_db
+    url: jdbc:mysql://db:3306/task-db
     username: root
     password: ""
     driver-class-name: com.mysql.cj.jdbc.Driver
