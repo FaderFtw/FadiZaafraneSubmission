@@ -1,4 +1,4 @@
-#Task Management System
+# Task Management System
 
 In the first Part, I have used Python to implement the "isTaskDescriptionPalindrome" function.
 
@@ -10,8 +10,11 @@ I Have organized my project into : entities / services / repositories / controll
 I have used Docker for containerization  and enviroment management :
 
 To start the app:
+
 1- Build the application artifact using : mvn clean package -DskipTests
+
 2- Build the docker image of the app :  docker build -t task-manager:latest .
+
 3- Launch both app and db containers using docker compose : docker-compose up -d
 
 
